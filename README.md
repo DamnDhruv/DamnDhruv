@@ -1,5 +1,19 @@
-## Artificial Intelligence & Data Science Student<br><br>I create:<br><br> -AI-powered projects that (hopefully) don’t go rogue<br> -Data-driven insights that make sense... sometimes<br>🛠 -Automation tools because doing things manually is overrated<br>Currently exploring:<br><br> -Machine Learning, NLP, and Computer Vision<br> -Cloud and AI Deployment<br> -Micro-Doppler radar signals and futuristic tech<br>Fun fact: I talk to AI models more than humans—and they actually reply.<br><br>
+## About Me
 
+**Artificial Intelligence & Data Science Student**
+
+I create:  
+- AI-powered projects that (hopefully) don’t go rogue  
+- Data-driven insights that make sense... sometimes  
+- Automation tools because doing things manually is overrated  
+
+**Currently exploring:**  
+- Machine Learning, NLP, and Computer Vision  
+- Cloud and AI Deployment  
+- Micro-Doppler radar signals and futuristic tech  
+
+**Fun fact:**  
+I talk to AI models more than humans—and they actually reply.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/D.hruvv) 
