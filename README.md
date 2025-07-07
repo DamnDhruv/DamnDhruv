@@ -1,4 +1,4 @@
-## Artificial Intelligence & Data Science Student<br><br>I create:<br><br>🚀 AI-powered projects that (hopefully) don’t go rogue<br>📊 Data-driven insights that make sense... sometimes<br>🛠️ Automation tools because doing things manually is overrated<br>Currently exploring:<br><br>🧠 Machine Learning, NLP, and Computer Vision<br>☁️ Cloud and AI Deployment<br>📡 Micro-Doppler radar signals and futuristic tech<br>Fun fact: I talk to AI models more than humans—and they actually reply.<br><br>
+## Artificial Intelligence & Data Science Student<br><br>I create:<br><br> -AI-powered projects that (hopefully) don’t go rogue<br> -Data-driven insights that make sense... sometimes<br>🛠 -Automation tools because doing things manually is overrated<br>Currently exploring:<br><br> -Machine Learning, NLP, and Computer Vision<br> -Cloud and AI Deployment<br> -Micro-Doppler radar signals and futuristic tech<br>Fun fact: I talk to AI models more than humans—and they actually reply.<br><br>
 
 
 ## 🌐 Socials:
